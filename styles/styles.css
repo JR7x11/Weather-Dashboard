@@ -1,0 +1,33 @@
+.header {
+  background-color: rgb(115, 132, 139);
+}
+
+.main-container {
+  display: flex;
+  background-color: rgb(206, 225, 235);
+}
+
+.search-area {
+  width: 25%;
+}
+
+.results-area {
+  width: 75%;
+}
+
+.btn.btn-danger {
+  background-color: red;
+}
+
+.btn.btn-warning {
+  background-color: yellowgreen;
+}
+
+.btn.btn-success {
+  background-color: green;
+}
+
+.search-clear-button {
+  margin-top: 20px;
+  background-color: rgb(159, 169, 187);
+}
